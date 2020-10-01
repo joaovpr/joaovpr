@@ -2,7 +2,7 @@
 
 
  I am majoring in computer science at the Federal University of Campina Grande (UFCG). 
- I am used to web development and object oriented programming mainly in java
+ I am used to front end web development and object oriented programming mainly in java
 
 
 
