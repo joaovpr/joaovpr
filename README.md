@@ -1,30 +1,48 @@
-### Hi there,my name is João
+# Hi there, my name is João 👋
 
+I am currently immersed in the world of QA and Testing. I graduated in Computer Science from the Federal University of Campina Grande. Although my previous experience was mainly focused on frontend development, I am currently exploring the fascinating world of software quality assurance.
 
- I am majoring in computer science at the Federal University of Campina Grande (UFCG). 
- I am used to front end web development and object oriented programming mainly in java
+My main activities involve participation in the entire testing flow on a variety of software projects. This includes everything from modeling to test development, execution, and evaluation, as well as the analysis of quality metrics. I believe that the quality of a product is fundamental to success, and my role is to ensure that systems meet the highest standards.
 
+## 👨🏼‍💻 Technical Skills
 
+- **Test Planning**
+- **Test Analysis**
+- **Test Execution**
+- **Test Automation**
+- **Test Coordination**
+- **Functional Test**
+- **Security Test**
+- **Usability Test**
+- **Performance Test**
 
+## 💻 Programming Skills and Tools
 
-- **👨🏼‍💻 Some of my skills:** 
-    
-    <ul style = "font-family: 'monospace' ">
-        <li> Python <img src="https://img.icons8.com/color/50/000000/python.png" width="22px" alt="python">
-        <li> Java   <img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo.png" width="22px" alt="java">
-        <li> HTML5  <img src="https://img.icons8.com/color/50/000000/html-5.png" width="22px" alt="html 5">
-        <li> CSS3   <img src="https://img.icons8.com/color/50/000000/css3.png" width="22px" alt="css 3">
-        <li> JavaScript <img src="https://img.icons8.com/color/50/000000/javascript.png" width="22px" alt="javascript"><br>
-        <li>Java SpringBoot <img src="https://miro.medium.com/max/300/1*DeBhsZUhS7RPLwyd1-Ul8A.png" width="22px" alt="springboot"> </li>
-        <li> React <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="22px" alt="react">
-        <li> NodeJs <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" width="22px" alt="node">
-        <li> Docker <img src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" width="22px" alt="docker">
-        <li>PSQL <img src="https://user-images.githubusercontent.com/24623425/36042969-f87531d4-0d8a-11e8-9dee-e87ab8c6a9e3.png" width="22px" alt="psql"> </li>
-    </ul>
-  
+- **Python**
+- **Java**
+- **HTML**
+- **CSS**
+- **JavaScript**
+- **PSQL**
+- **Java SpringBoot**
+- **REACTJS**
+- **pandas**
+- **Cypress**
+- **JUnit**
+- **Selenium**
+- **Pytest**
+- **Wave**
+- **WCAG Guide**
+- **AI (Artificial Intelligence)**
+- **Postman**
+- **Linux Ubuntu**
 
-   
+I am always willing to learn new things and improve my skills. I firmly believe that good relationships make great teams, and great teams deliver great results. I am excited about the challenges and opportunities that the world of QA and Testing offers, and I look forward to contributing to the success of the projects I am involved in. If there's anything specific you'd like to know or discuss, I'm happy to help!
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=joaovpr&show_icons=true&theme=dark)
+## 📫 Contact Information
 
+- Email: [joao.romao@ccc.ufcg.edu.br](mailto:joao.romao@ccc.ufcg.edu.br) or [joaovitorpatricioromao@gmail.com](mailto:joaovitorpatricioromao@gmail.com)
+- Telephone: (83) 9 93366403
+
+![João's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaovpr&show_icons=true&theme=dark)
 
